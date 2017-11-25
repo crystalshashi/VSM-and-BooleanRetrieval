@@ -12,3 +12,5 @@ Steps to execute:
 	b)Vector model : displays the top 10 documents for each query along with time taken to execute queries.
   
 NLTK needs to be installed
+
+Boolean.txt and vector.txt are the input queries and to rack up the index file I had used rfc files(8000).
