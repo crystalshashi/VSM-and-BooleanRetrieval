@@ -1,0 +1,61 @@
+Internet
+Namespace
+Ipaddress
+web
+Postel
+HTTP
+switching
+Internet AND address
+Internet AND addresses
+internet OR internets
+Obsoletes AND none
+obsoletes AND 221 
+HTTP OR HTTPS
+request AND response
+Transimission AND Control AND Protocol
+Transimission AND Control AND Block
+Internet AND address OR addresses
+IETF OR Internet AND Engineering AND Task AND Force
+Obsoletes AND 851  OR Obsoletes AND 802
+obsoletes AND 901 AND 880
+cacheable AND POST
+One AND Microsoft AND Way
+request AND and AND response
+switch OR Bridge OR Gateway OR Router
+switch AND Bridge AND Gateway AND Router
+world AND wide AND web
+world OR wide
+securtiry OR handshake
+secutiry
+interent
+"MUST"
+TCP/IP
+HTTP/1.1
+HTTP/2.0
+#define
+A
+an
+the
+if
+when
+A AND generic AND range
+range AND of AND IP AND Addresses
+range AND of AND IP OR ip OR Ip AND Addresses
+"standard"
+"stamdard"
+standard OR stamdard
+standards AND track OR informational AND track
+Nimrod
+RFC1992
+[RFC992]
+(Yorktown)
+MUA OR Main AND User AND agent
+Ray AND Tomlinson
+10BaseT
+broadcasting
+Intrusion AND detection AND system
+firewall
+firewall's
+standard
+main
+'standard' AND 'main'

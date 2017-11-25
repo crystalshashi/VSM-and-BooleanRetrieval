@@ -1,0 +1,40 @@
+request for comments
+no special limit
+category: informational
+Steve Crocker
+10BaseT
+multicast routing
+TCP Big window
+high bandwidth path
+high bandwidth satellite path
+high badnwidth satelltie path
+core based trees network layer multicast
+difference between broadcast unicast and multicast 
+fiber based broadband
+broadband internet
+broadband networks providers and subscribers
+network security firewall ACL
+firewall's exception list
+firewall or intrusion detection system IDS
+netiquette and ethics of the internet
+users of interent include people from multiple disciplines religions countries
+hyper text transfer protocol
+vector space model and cosine similarity 
+protection of copyrights and trademarks and intellectual propert
+humanities and arts on the internet
+common infrasturcture for routing and communications
+FCCSET
+does geolocatin API violate ethics
+various "standards" superimposed
+publishing and subscripion of messages
+NWG/RFC published by the first author
+it is the internet
+GET POST HEAD PUT and other methoda 
+radius or diameter 
+name default null
+Yang model
+YANG module statements and keywords
+freedom of expression
+network storage NFS SAN and NAS
+Classles inter domain routing
+ReST
